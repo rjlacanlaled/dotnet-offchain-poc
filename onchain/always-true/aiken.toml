@@ -1,0 +1,14 @@
+name = "test/always-teue"
+version = "0.0.0"
+license = "Apache-2.0"
+description = "Aiken contracts for project 'test/always-teue'"
+
+[repository]
+user = "test"
+project = "always-teue"
+platform = "github"
+
+[[dependencies]]
+name = "aiken-lang/stdlib"
+version = "1.7.0"
+source = "github"

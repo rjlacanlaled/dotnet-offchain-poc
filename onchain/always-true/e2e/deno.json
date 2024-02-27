@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "submit": "deno run --allow-all txSubmit.ts",
+    "lock": "deno run --allow-all lock.ts"
+  }
+}
